@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Dan <br/><a href="https://www.linkedin.com/in/daniel-feng/">LinkedIn</a> [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h1>Hi there 👋, I'm Dan <br/><a href="https://www.linkedin.com/in/daniel-feng/">LinkedIn</a> [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
 
 <h2>Projects:</h2>
 
