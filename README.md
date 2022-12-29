@@ -6,7 +6,7 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-feng/
 
-<h2>Projects:</h2>
+<h1>Projects:</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
