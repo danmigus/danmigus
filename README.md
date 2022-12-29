@@ -7,7 +7,7 @@
 
 
 
-<h2>Social Media:</h2>
+<h1>Social Media:</h1>
 
 [<img align="left" alt="danmigus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
