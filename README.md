@@ -1,4 +1,4 @@
-</h1>Hi there 👋, I'm Dan  </h1>
+</h1>Hi there 👋, I'm Dan</h1>
 - 🌱 I’m currently learning Computer Science at the University of Central Florida
 
 <h1>Projects:</h1>
