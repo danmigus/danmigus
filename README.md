@@ -5,8 +5,7 @@
 
 [linkedin]: https://www.linkedin.com/in/daniel-feng/ 
 
-<h1>Projects:</h1>
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Computer Science at the University of Central Florida
 
+<h1>Projects:</h1>
