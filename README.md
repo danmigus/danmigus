@@ -5,7 +5,9 @@ I’m currently a CS Undergrad at the University of Central Florida [<img src = 
 
 [<img src= "https://media4.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif" width = "100">](https://github.com/adamess123/Wurtle)
 
-<picture> <img src = "https://github.com/danmigus/danmigus/assets/111514188/44362d68-6019-4c7f-b7d0-e1b4ee3880dd"> </picture>
+<picture> <img src = "https://github.com/danmigus/danmigus/assets/111514188/70c04091-9246-4cc8-aa80-373a87e93311"> </picture>
+
+1. Wurtle: Recreation of the popular game Wordle, at KnightHacks Hackathon 2023.
 
 ## Languages:
 
