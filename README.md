@@ -1,5 +1,5 @@
 # Hi there, I'm Dan <img src = "https://github.com/danmigus/danmigus/assets/111514188/b559a38d-1717-42cf-9623-cea86f87d7f4" width = "50">
-I’m currently pursuing my B.S in Computer Science at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](ucf.edu)
+I’m currently a CS Undergrad at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](https://www.ucf.edu)
 
 
 ## Projects:
