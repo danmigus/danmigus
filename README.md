@@ -1,13 +1,13 @@
-# Hi there, I'm Dan <picture> <img src = "https://github.com/danmigus/danmigus/assets/111514188/b559a38d-1717-42cf-9623-cea86f87d7f4" width = "50"> </picture>
-I’m currently a CS Undergrad at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](https://www.ucf.edu)
+# Hi, I'm Dan 👋
+I’m currently a Senior CS Undergraduate at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](https://www.ucf.edu)
 
 ## Projects:
 
-[<img src = "https://media4.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif" width = "100">](https://github.com/adamess123/Wurtle)
+[<img src = "https://github.com/user-attachments/assets/9a82a7a9-e95a-4e82-9902-ab428c3356f0" width = "75">](https://github.com/danmigus/team21largeproject)  Trade Wizard: Fantasy football trade value analyzer using a MERN stack and other technologies.
 
-[<img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/111514188/274006706-70c04091-9246-4cc8-aa80-373a87e93311.png">](https://github.com/adamess123/Wurtle)
+[<img src = "https://github.com/user-attachments/assets/ca6e8897-67e2-4050-9d95-c205846d4879" width = "75">](https://ezciphers.com/index.html)  EzCiphers: Small project to help encrypt/ decrypt various ciphers and codes. 
 
-1. Wurtle: Recreation of the popular game Wordle, at KnightHacks Hackathon 2023.
+[<img src = "https://media4.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif" width = "75">](https://github.com/adamess123/Wurtle)  Wurtle: Clone recreation of the popular game Wordle, at KnightHacks Hackathon 2023.
 
 ## Languages:
 
