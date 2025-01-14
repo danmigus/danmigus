@@ -3,11 +3,11 @@ I’m currently a 4th year CS undergraduate at the University of Central Florida
 
 ## Projects:
 
-[<img src = "https://github.com/user-attachments/assets/9a82a7a9-e95a-4e82-9902-ab428c3356f0" width = "75">](https://github.com/danmigus/team21largeproject)  Trade Wizard: Fantasy football trade value analyzer using a MERN stack and other technologies.
+[<img src = "https://github.com/user-attachments/assets/9a82a7a9-e95a-4e82-9902-ab428c3356f0" width = "50">](https://github.com/danmigus/team21largeproject)  **[Trade Wizard](https://github.com/danmigus/team21largeproject)**: Fantasy football trade value analyzer using a MERN stack and other technologies.
 
-[<img src = "https://github.com/user-attachments/assets/ca6e8897-67e2-4050-9d95-c205846d4879" width = "75">](https://ezciphers.com/index.html)  EzCiphers: Small project to help encrypt/ decrypt various ciphers and codes. 
+[<img src = "https://github.com/user-attachments/assets/ca6e8897-67e2-4050-9d95-c205846d4879" width = "50">](https://ezciphers.com/index.html)  **[EzCiphers](https://ezciphers.com/index.html)**: Small project to help encrypt/ decrypt various ciphers and codes. 
 
-[<img src = "https://media4.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif" width = "75">](https://github.com/adamess123/Wurtle)  Wurtle: Clone recreation of the popular game Wordle, at KnightHacks Hackathon 2023.
+[<img src = "https://media4.giphy.com/media/8H1SPh0ysU9EoXMzVj/giphy.gif" width = "50">](https://github.com/adamess123/Wurtle)  **[Wurtle](https://github.com/adamess123/Wurtle)**: Clone recreation of the popular game *Wordle*, at KnightHacks Hackathon 2023.
 
 ## Languages:
 
