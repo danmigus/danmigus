@@ -11,8 +11,11 @@ I’m currently a Senior CS Undergraduate at the University of Central Florida [
 
 ## Languages:
 
-<picture> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> </picture>
-<picture> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100"> </picture> 
+Java, Python, C, SQL, JavaScript, R, TypeScript, CSS
+
+## Technologies: 
+
+Git, GitHub, VSCode, Visual Studio, Cloudflare, Sendgrid, Figma, MERN (MongoDB, Node.js, React, Express, JWT), LAMP (Linux, Apache, mySQL, PHP)
 
 ## Social Media:
 
