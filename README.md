@@ -1,5 +1,5 @@
 # Hi, I'm Dan 👋
-I’m currently a Senior CS Undergraduate at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](https://www.ucf.edu)
+I’m currently a 4th year CS undergraduate at the University of Central Florida [<img src = "https://pbs.twimg.com/profile_images/1512434007601922051/xUY6RMuJ_400x400.png" width ="20">](https://www.ucf.edu)
 
 ## Projects:
 
